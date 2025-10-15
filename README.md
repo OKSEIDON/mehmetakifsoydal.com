@@ -12,3 +12,7 @@ Sitenin link uzantıları güncellendi ve html yerine php olarak uzantı değiş
 13 EKİM 2025 
 
 Sitenin hakkımda kısmı güncellendi prfile tekrar ayarlandı. Hasarlı linkedin linki düzeltildi.
+
+15 EKİM 2025
+
+Website içerisine AdminLTE3 entegrasyonu ekleyip kişiselleştirme yapmam gerekti fakat Tailwind CSS çakışma yaptığı ve temel dosyalar ile PHP içerisinde HTML çalışması işleri zora sürükledi. Kaynak kodlar muhtemelen tamamen değişmeyecek fakat tekrardan ayarlanmak zorunda kalacak bu yüzden rework olabilir ama büyük bir değişim olmaz.
